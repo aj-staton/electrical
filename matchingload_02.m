@@ -1,5 +1,5 @@
 % Written by Austin Staton
-% This solves question 2 on the ELCT 221 final exam.
+% Used for ELCT 221 at the UofSC
 % Date: 12/10/18
 
 clc
