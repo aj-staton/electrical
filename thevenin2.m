@@ -1,3 +1,6 @@
+% Written by Austin Staton
+% Used in ELCT 221 (Circuits) at UofSC
+
 clc
 clear all
 
