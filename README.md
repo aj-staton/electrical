@@ -1,4 +1,8 @@
 # electrical
+This repository houses some of the files I have needed thorughout my Electrical Engineering career. These include things for circuit analysis, circuit design, and signal processing.
 
-## circuit solving
-Matlab scripts that have been used to solve circuit diagrams or assist with circuit design. The majority of these scripts stem from my coursework in Electrical Engineering. 
+## circuits
+Matlab scripts that have been used to solve circuit diagrams or assist with circuit design.
+
+## visualizer
+For the lo-fi enthusiast
