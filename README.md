@@ -1,5 +1,5 @@
 # Electrical Engineering
-This repository houses some of the files I have needed thorughout my Electrical Engineering coursework. These include things for circuit analysis, circuit design, and signal processing.
+This repository houses some of the files I have needed thorughout my Electrical Engineering coursework. This includes strategies for circuit analysis, circuit design, and signal processing.
 
 ## circuits
 These Matlab scripts have been used to solve circuit diagrams or assist with circuit design.
