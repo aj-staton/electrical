@@ -1,5 +1,5 @@
 # Electrical Engineering
-This repository houses some of the files I have needed thorughout my Electrical Engineering coursework. This includes strategies for circuit analysis, circuit design, and signal processing.
+This repository houses some of the files I have needed thorughout my Electrical Engineering education. This includes strategies for circuit analysis, circuit design, and signal processing.
 
 ## circuits
 These Matlab scripts have been used to solve circuit diagrams, assist with circuit design, or interpret given signals. Topics for solutions include Mesh/Nodal analysis, Thevenin transformations, and Fourier transforms.
