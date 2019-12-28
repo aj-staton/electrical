@@ -1,16 +1,14 @@
 %{
 Written by Austin Staton for use in "Signals and Systems" 
 at the University of South Carolina.
-
 Date:  16 Apr 2019 
 
 This code takes in a song, then uses its waveform as a signal to take a fourier
 transform and generates a visualizer. This visualizer plots the amplitude of the wave
 form vs. the frequency the of the wave.
 
-Much of this code is not my own, original thought. Dr. Mvs Chandrashekar
+Credit: Not all of this code is not my own, original thought. Dr. Mvs Chandrashekar
 provided the approach to creating this visualizer and some sample code.
-
 %}
 
 clc;
