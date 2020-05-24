@@ -1,4 +1,4 @@
-# Electrical Engineering
+# Electrical 
 This repository houses some of the files I have needed thorughout my Electrical Engineering education. This includes strategies for circuit analysis, circuit design, and signal processing.
 
 ## circuits
